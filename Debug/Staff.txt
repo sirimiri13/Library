@@ -1,0 +1,6 @@
+DNLiem 423456,Dinh Nho Liem,01/05/1999,341979995,Lang DHQG KTX khu 106A18,nam,block
+MHuynh 523456,Huynh Cong Minh,01/01/1999,341979996,Lang DHQG KTX khu 117A18,nam,activated
+MDang 623456,Dang Hong Minh,31/07/1999,341979997,Lang DHQG KTX khu 117A18,nam,block
+CTNhan 723456,Cao Thanh Nhan,11/07/1999,341979998,Lang DHQG KTX khu 117A18,nam,block
+DAnh 823456,Le Nguyen Duc Anh,02/01/1999,341979999,Lang DHQG KTX khu 117A18,nam,activated
+spm 123,superman,2/2/1900,1214234,the earth,Nam,activated

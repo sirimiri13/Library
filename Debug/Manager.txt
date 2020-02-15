@@ -1,0 +1,8 @@
+thaihoc 123456,Hoc Thai Nguyen,30/11/1999,341979992,Lang DHQG KTX khu 106A18,nam,activated
+BoiViVi 111111,Boi Vi Vi,22/08/1991,341979990,DHQG Trung Khanh,nu,activated
+thanhthao maithao,Nguyen Thi Thanh Thao,1975,341979989,Cao Lanh Dong Thap,Nu,activated
+maithao thanhthao,Le Thi Mai Thao,1975,341989992,Cao Lanh Dong Thap,nu,activated
+quynhhuong 223456,Lam Quynh Huong,13/04/1999,341979993,Lang DHQG KTX khu B ( E1),nu,activated
+tanduc maithao,Nguyen Tan Duc,1970,341797213,Cao Lanh Dong Thap,Nam,activated
+maithao tanduc,Le Thi Mai Thao,1975,341979921,39 Le Duan,Nu,activated
+joker 1234,chu he vui ve,30/11/1999,1245234,USA,Nam,block

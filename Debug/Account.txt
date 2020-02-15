@@ -1,0 +1,15 @@
+thaihoc 123456,Hoc Thai Nguyen,30/11/1999,341979992,Lang DHQG KTX khu 106A18,nam,activated
+quynhhuong 223456,Lam Quynh Huong,13/04/1999,341979993,Lang DHQG KTX khu B ( E1),nu,activated
+BoiViVi 111111,Lo Vy Vi Vi,22/08/1991,341979990,DHQG Trung Khanh,nu,activated
+DuongDuong 323456,Nhat Teu Nai Ha,09/09/1991,341979994,Sweet Street DH Trung Khanh,Nam,activated
+DNLiem 423456,Dinh Nho Liem,01/05/1999,341979995,Lang DHQG KTX khu 106A18,nam,block
+MHuynh 523456,Huynh Cong Minh,01/01/1999,341979996,Lang DHQG KTX khu 117A18,nam,activated
+MDang 623456,Dang Hong Minh,31/07/1999,341979997,Lang DHQG KTX khu 117A18,nam,block
+CTNhan 723456,Cao Thanh Nhan,11/07/1999,341979998,Lang DHQG KTX khu 117A18,nam,block
+DAnh 823456,Le Nguyen Duc Anh,02/01/1999,341979999,Lang DHQG KTX khu 117A18,nam,activated
+NTruong 923456,Le Nguyen Nhut,Truong 01/09/1999,341979991,Lang DHQG KTX khu 117A18,nam,activated
+tanduc maithao,Nguyen Tan Duc,1970,341797213,Cao Lanh Dong Thap,Nam,activated
+maithao tanduc,Le Thi Mai Thao,1975,341979921,39 Le Duan,Nu,activated
+ironman 123,Tony Stark,1/1/1960,131231,USA,Nam,activated
+spm 123,superman,2/2/1900,1214234,the earth,Nam,activated
+joker 1234,chu he vui ve,30/11/1999,1245234,USA,Nam,block

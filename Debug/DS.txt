@@ -1,0 +1,24 @@
+0001,Thanh pho hon rong,Ransom Riggs,NXB Van hoc,2018,Tieu thuyet,128000,10
+0002,Nha gia kim,Paulo Coelho,NXB Van hoc,2013,Tieu thuyet,55000,10
+0003,Em se den cung con mua,Ichikawa Takuji,NXB Van hoc,2013,Tieu thuyet,80000,10
+0004,5cm/s,Shinkai Makoto,NXB Van hoc,2014,Tieuthuyet,50000,10
+0005,That tich khong mua,Lau Vu Tinh,NXB Thoi dai,2013,Ngon tinh,79000,10
+0006,Tam sinh tam the,Duong That Cong Tu,NXB Van hoc,2012,Ngon tinh,109000,10
+0007,50 sac thai - xam,E.L.James,NXB Lao dong,2014,Tieu thuyet,149000,5
+0008,50 sac thai - tu do,E.L.James,NXB Lao dong,2014,Tieu thuyet,169000,5
+0009,Me before you,Jijo Moyes,NXB Tre,2015,Tieu thuyet,150000,5
+0010,Hom nay toi that tinh,Ha Vu,Ha Noi,2016,Tan van,80000,10
+0011,Yeu em tu cai nhin dau tien,Co Man,Van Hoc,2014,Tieu thuyet,30000,20
+0012,Mua chia tay,Hamlet Truong,Van hoc,2018,Tan van,69000,10
+0013,Code dao ki su,Pham Huy Hoang,Dan tri,2017,Ky,127000,5
+0014,Tong on tap Hoa hoc,Nguyen Hoang Vu,DHQG Ha Noi,2017,Tham khao,130000,10
+0015,Lam chu mon Hoa trong 30 ngay,Le Dang Khuong,DHQG Ha Noi,2016,Tham khao,250000,10
+0016,Doi ngan dung ngu dai,Robin Sharma,NXB Tre,2014,Ky nang song,60000,5
+0017,The gioi phang,Thomas L.Friedman,NXB Tre,2014,Ky nang song,212000,5
+0018,Toi tai gioi - ban cung the,Adam Khoo,NXB Phu nu,2010,Ky nang song,110000,10
+0020,Tu dien Oxford A-A-V,MC Books,NXB DHQG Ha Noi,2013,Tu dien,210000,10
+0021,Tu dien A-V,Minh Thang,NXB Van hoc Thong tin,2012,Tu dien,70000,5
+0022,Napoleon Dai De,Andrew Roberts,NXB The gioi,2017,Tai lieu,456000,5
+0023,Trat tu the gioi,Henry Kissinger,NXB The gioi,2018,Tai lieu,210000,5
+0024,Lap trinh voi C#,Pham Quang Hien,NXB Thanh nien,2018,Tai lieu,112000,10
+0025,Giao trinh HDH,Tu Minh Phuong,NXB Thong tin,2017,Tai lieu,85000,5
